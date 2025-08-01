@@ -18,7 +18,7 @@ To run this project, you will need to have Python installed on your system.
 ### 1. Clone the Repository
 
 First, clone this repository to your local machine using Git:
- https://github.com/nbs12215/HomeOS.git
+git clone https://github.com/nbs12215/HomeOS.git
 
  ### 2. Install Dependencies
 This project requires the `requests` library. You can install it using `pip`, the Python package installer, with the following command:
